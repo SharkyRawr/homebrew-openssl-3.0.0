@@ -3,7 +3,7 @@ class OpensslAT300 < Formula
   homepage "https://openssl.org/"
   url "https://www.openssl.org/source/openssl-3.0.0.tar.gz"
   mirror "https://www.mirrorservice.org/sites/ftp.openssl.org/source/openssl-3.0.0.tar.gz"
-  sha256 " 59eedfcb46c25214c9bd37ed6078297b4df01d012267fe9e9eee31f61bc70536"
+  sha256 "59eedfcb46c25214c9bd37ed6078297b4df01d012267fe9e9eee31f61bc70536"
   license "OpenSSL"
   version_scheme 1
 
